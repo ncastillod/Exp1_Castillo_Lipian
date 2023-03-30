@@ -19,6 +19,37 @@ footer
     background-color:red;
 }
 
+/*
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .social-icons a {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 24px;
+    color: #fff;
+  }
+  
+  .social-icons a:last-child {
+    margin-right: 0;
+  }
+  
+  .social-icons a:hover {
+    color: #f8b500;
+  }
+  
+
+
+*/
+
+
+
+
+
+/*
 #social {
     position: fixed;
     top: 50%;
@@ -76,3 +107,4 @@ footer
     }
 }
 
+*/
